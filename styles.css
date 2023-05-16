@@ -62,7 +62,7 @@ body {
   margin: 0 auto;
 }
 
-button {
+.button-top {
   display: flex;
   height: 40px;
   width: 102px;
@@ -148,3 +148,39 @@ button {
 }
 
 /* review complete */
+
+.main3 {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.container3 {
+  background-color: #3882f6;
+  height: 200px;
+  width: 800px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  border-radius: 20px;
+}
+
+.action {
+font-size: 36px;
+}
+
+.description {
+ font-size: 18px;
+}
+
+button {
+  background-color: #3882f6;
+  color: white;
+  border-radius: 10px;
+  border-color: white;
+  width: 130px;
+  height: 40px;
+  font-size: 18px;
+  
+}
