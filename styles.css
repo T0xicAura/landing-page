@@ -29,8 +29,45 @@ body {
 .buttons {
   display: flex;
   gap: 16px;
+  font-size: 24px;
   align-items: center;
   margin-right: 20px;
 }
 
 /* paragraph styling */
+
+.top {
+  background-color: #1f2937;
+  color: white;
+}
+
+.hero {
+  font-size: 48px;
+}
+
+.hero-secondary {
+  font-size: 18px;
+  display: flex;
+  width: 600px;
+}
+
+.img2 {
+  height: 300px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+button {
+  display: flex;
+  height: fit-content;
+}
+
+.container {
+  display: flex;
+}
+
+.container-text {
+  margin: 0 auto;
+  padding: 58px;
+}
+  
