@@ -182,5 +182,17 @@ button {
   width: 130px;
   height: 40px;
   font-size: 18px;
-  
 }
+
+/* call to action complete */
+
+.footer {
+display: flex;
+background-color: #1f2937;
+height: 80px;
+justify-content: center;
+align-items: center;
+color: white;
+}
+
+/* EVERYTHING IS COMPLETE */
